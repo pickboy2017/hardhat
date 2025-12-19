@@ -125,7 +125,7 @@
     "find-up": "^2.1.0",
     "fp-ts": "1.19.3",
     "fs-extra": "^7.0.1",
-    "glob": "7.2.0",
+    "glob": "9.0.0",
     "immutable": "^4.0.0-rc.12",
     "io-ts": "1.10.4",
     "json-stream-stringify": "^3.1.4",
@@ -141,9 +141,9 @@
     "source-map-support": "^0.5.13",
     "stacktrace-parser": "^0.1.10",
     "tsort": "0.0.1",
-    "undici": "^5.14.0",
+    "undici": "^5.29.0",
     "uuid": "^8.3.2",
-    "ws": "^7.4.6"
+    "ws": "^7.5.10"
   },
   "peerDependencies": {
     "ts-node": "*",
